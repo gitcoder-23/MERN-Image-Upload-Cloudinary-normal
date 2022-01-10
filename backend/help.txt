@@ -1,0 +1,19 @@
+// mongo db cred
+  email: prabhatece21@gmail.com
+  pwd: source2@code
+
+  // mongo-atlas db
+  cluster/db= nextjs_ecommerce_app
+  user: nextecomm-21
+  pwd: nextecomm-21
+  IP: 0.0.0.0
+  Network_IP: 0.0.0.0/0
+  desc: nextjs_ecomm
+
+  // cloudinary used
+  https://cloudinary.com
+  sign in
+  user: prabhatece21@gmail.com
+  pwd: Source2@code
+
+https://cloudinary.com/documentation/node_integration

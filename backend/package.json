@@ -1,0 +1,23 @@
+{
+  "name": "student-api",
+  "you-for-this": "https://youtu.be/ogGIYysZFEM",
+  "you-tut-full": "https://youtube.com/playlist?list=PLgzD0aHYwynLSNuhiTRqxSwLu_fuhNdrO",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server",
+    "on": "nodemon server"
+  },
+  "dependencies": {
+    "cloudinary": "^1.28.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "express-fileupload": "^1.2.1",
+    "mongoose": "^6.1.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
